@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "ae66f7574dc17f9182faaa94",
+  "owner": "uhqyqq1",
+  "repo": "page-05726fb296e912af7df37de8",
+  "title": "V2Tun",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "05726fb296e912af7df37de8",
+      "a": "V2Tun",
+      "b": "2027官方最新地址导航",
+      "entity": "V2Tun",
+      "brand": "V2Tun",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "edcbc1b0536dfa45e8142e266c1548568d47a7f76049d445957d616192e79d9b",
+      "content": {
+        "primary_entity": "V2Tun",
+        "keyword1": "V2Tun",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比展开，帮助用户按自身用量挑选合适方案。基础版每月 100GB 流量，适合手机与平板轻度使用；旗舰版每月 300GB，支持 5 台设备同时在线并带 IPLC 专线优化；团队版每月 1000GB，支持 20 台设备，适合小型工作组。按年付分别仅需 ¥150、¥350、¥850，长期使用更划算。",
+          "AI_HERO_SUBTITLE": "V2Tun 按设备与用量选套餐",
+          "AI_HERO_INTRO": "V2Tun 提供基础版、旗舰版与团队版三档订阅，覆盖从个人轻度上网到多设备团队协作的不同场景。用户可先确认常用设备数量与月流量需求，再对照套餐中的节点池、流媒体解锁与专线能力做出选择。",
+          "AI_VISUAL_TITLE": "V2Tun 订阅方案一览",
+          "AI_HIGHLIGHT_1": "三档套餐区分设备数量",
+          "AI_HIGHLIGHT_2": "按年付比月付更省费用",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 游戏专线",
+          "AI_FEATURES_TITLE": "套餐与设备选择要点",
+          "AI_FEATURES_INTRO": "先看设备数与月流量，再看线路类型与支持方式，能更快锁定合适套餐。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台，按常用设备数量对应选择。",
+          "AI_FEATURE_TITLE_2": "按流量周期选",
+          "AI_FEATURE_TEXT_2": "100GB、300GB、1000GB 三档月流量，年付价格分别为 ¥150、¥350、¥850，周期越长越经济。",
+          "AI_FEATURE_TITLE_3": "按线路需求选",
+          "AI_FEATURE_TEXT_3": "旗舰版提供 IPLC 专线游戏加速优化，团队版含 VIP 专属高带宽节点与定制路由支持。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_PLANS_INTRO": "基础版适合单人或少量设备，旗舰版适合多设备娱乐与游戏，团队版适合人数较多的工作组。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，按客户端文档导入订阅即可使用。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_GUIDE_INTRO": "先选套餐，再确认设备适配要求，最后按客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据设备数量和月流量需求，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TITLE_2": "确认适配要求",
+          "AI_STEP_TEXT_2": "查看所选客户端对系统版本和网络环境的要求，确认设备在支持范围内。",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_STEP_TEXT_3": "在客户端中按文档添加订阅链接，保存后选择节点即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更顺畅",
+          "AI_CLOSING_TEXT": "按设备与流量需求选定 V2Tun 套餐，依照客户端文档完成订阅配置。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备并带 IPLC 专线与流媒体解锁；团队版每月 1000GB、20 台设备，支持企业定制路由。",
+          "AI_FAQ_ANSWER_2": "注册后在订阅页选择套餐，支持月付或年付，年付相当于十个月费用。支付完成后在个人中心复制订阅链接，按所用客户端文档导入即可。",
+          "AI_FAQ_ANSWER_3": "同一时间在线的设备数按套餐计算，基础版 3 台、旗舰版 5 台、团队版 20 台。路由器或电视盒等设备也占用一个在线额度。",
+          "AI_FAQ_ANSWER_4": "先在客户端新建订阅并粘贴订阅链接，保存后更新节点列表，再选择低延迟节点启用代理。不同客户端入口略有差异，可参考各客户端的使用说明。",
+          "AI_FAQ_ANSWER_5": "套餐变更一般在当前周期结束后生效。如需从基础版升级到旗舰版或团队版，可在个人中心提交工单，客服会协助处理差价与剩余时长。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版有什么区别？",
+          "AI_FAQ_QUESTION_2": "如何购买并导入 V2Tun 订阅？",
+          "AI_FAQ_QUESTION_3": "一个账号可以同时登录几台设备？",
+          "AI_FAQ_QUESTION_4": "客户端导入订阅后无法连接怎么办？",
+          "AI_FAQ_QUESTION_5": "可以中途升级或更换套餐吗？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "yongdingjob.cn",
+    "host": "yongdingjob.cn"
+  },
+  "file_hashes": {
+    "index.html": "8ed0206678aae3fd8134d658f38d79fef1737f07cb00483c638cfe55f49c629b",
+    "sitemap.xml": "300f676cbb1092d4514f044bddc4ebece95d45699d0a54bdef461e3a66cdd8fc",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "4d70e7ba2abfdd265a9af7f8c84f403e445d0b9c5b4222e62c73e5ee801b6377",
+    "robots.txt": "a90ba21640534e4f19e69498b060667e1bb7ab32dec80c4cddf741315933f468",
+    "65b80ab358a01e0babc25b01e69a605b.txt": "24d569f37016fd78f6b749a9f0bb20b814946d1a15fc0415714507ce374255ce"
+  },
+  "revision": "008dab99ff338db0f6871b0975dfa738e86410f3c6667ed6bdd5b6e9af5b31d9"
+}
